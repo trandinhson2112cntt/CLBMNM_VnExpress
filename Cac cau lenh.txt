@@ -1,0 +1,14 @@
+ctrl + alt + n: Create index.html
+ctrl + `: setup package
+search sublime text 3 package
+paste
+search sublime text 
+search sublime text advenced new file
+ctrl + shift + P
+alt + shift + 2: hien 2 cua so lam viec
+ctrl + space : doc
+ctrl+/: comment
+ctrl + shift + r: chinh code
+
+ul: thuoc tinh danh sach
+li: cac thanh phan trong thuoc tinh
